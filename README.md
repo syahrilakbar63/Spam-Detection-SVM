@@ -13,4 +13,4 @@ Repositori ini berisi kode untuk mendeteksi spam menggunakan Support Vector Mach
 Akurasi model akan dicetak ke konsol setelah script dijalankan.
 
 ## Lisensi
-[MIT License](MIT License)
+[MIT License](LICENCE)
